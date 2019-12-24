@@ -1,0 +1,9 @@
+C:\Users\aldan\Desktop\C#\UDEMY\LESSONS\Prefix_Calculator\Prefix_Calculator\bin\Debug\Prefix_Calculator.exe.config
+C:\Users\aldan\Desktop\C#\UDEMY\LESSONS\Prefix_Calculator\Prefix_Calculator\bin\Debug\Prefix_Calculator.exe
+C:\Users\aldan\Desktop\C#\UDEMY\LESSONS\Prefix_Calculator\Prefix_Calculator\bin\Debug\Prefix_Calculator.pdb
+C:\Users\aldan\Desktop\C#\UDEMY\LESSONS\Prefix_Calculator\Prefix_Calculator\obj\Debug\Prefix_Calculator.csprojAssemblyReference.cache
+C:\Users\aldan\Desktop\C#\UDEMY\LESSONS\Prefix_Calculator\Prefix_Calculator\obj\Debug\Prefix_Calculator.Form1.resources
+C:\Users\aldan\Desktop\C#\UDEMY\LESSONS\Prefix_Calculator\Prefix_Calculator\obj\Debug\Prefix_Calculator.Properties.Resources.resources
+C:\Users\aldan\Desktop\C#\UDEMY\LESSONS\Prefix_Calculator\Prefix_Calculator\obj\Debug\Prefix_Calculator.csproj.GenerateResource.cache
+C:\Users\aldan\Desktop\C#\UDEMY\LESSONS\Prefix_Calculator\Prefix_Calculator\obj\Debug\Prefix_Calculator.exe
+C:\Users\aldan\Desktop\C#\UDEMY\LESSONS\Prefix_Calculator\Prefix_Calculator\obj\Debug\Prefix_Calculator.pdb
